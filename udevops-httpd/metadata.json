@@ -1,0 +1,14 @@
+{
+  "name": "udevops-httpd",
+  "version": "0.1.0",
+  "author": "udevops",
+  "summary": "this module can be used to install and configure apache on redhat, ubuntu machines",
+  "license": "Apache 2.0",
+  "source": "https://github.com/udevops",
+  "project_page": "https://github.com/udevops",
+  "issues_url": "https://github.com/udevops/issues",
+  "dependencies": [
+    {"version_requirement":">= 1.0.0","name":"puppetlabs-stdlib"}
+  ]
+}
+
